@@ -1,8 +1,8 @@
 {
-  "name": "my-first-gatsby-site",
+  "name": "gatsby-tutorial",
   "version": "1.0.0",
   "private": true,
-  "description": "my-first-gatsby-site",
+  "description": "gatsby-tutorial",
   "author": "Klintonjmd",
   "keywords": [
     "gatsby"
